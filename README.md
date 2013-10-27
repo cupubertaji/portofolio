@@ -1,4 +1,4 @@
-portofolio
+Repositori Portofolio
 ==========
 
-portofolio
+Ini adalah portofolio Nanda Budi Prayuga
